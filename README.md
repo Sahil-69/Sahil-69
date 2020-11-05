@@ -14,7 +14,7 @@
 💻 I am an Addicted **Android Developer** 💎<br>
 🔭 I’m currently working on **New Whatsapp Features**<br>
 🌱 I’m currently learning **Flutter**<br>
-👯 I’m looking to collaborate on my flutter project<br>
+👯 I’m looking to collaborate on my **flutter project** <br>
 ❤ In general; I am a **Technology Geek**  🇨🇾<br>
 
 ## Technologies I Use
