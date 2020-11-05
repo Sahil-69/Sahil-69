@@ -7,7 +7,7 @@
 <p>
   <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="200px"></p>
 
-  # 𝗜'𝗺 Sahil Saxena 🦄
+  # 𝗜'𝗺 Sahil Saxena <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 ❤ I love to create **Coding Exercises** For Kids 🚀 <br>
 🚀 I am a **Student of CSE** who loves Backend & Frontend ⌨ <br>
