@@ -2,6 +2,8 @@
 <!--
 **Sahil-69/Sahil-69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+-->
  <p>
   <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="200px"></p>
 
@@ -74,7 +76,7 @@
   <a href="mailto:nakibarbie1017@gmail.com">
     <img align="left" width="26px" src="https://cdn.svgporn.com/logos/google-gmail.svg" />
   </a>
--->
+
 - 🔭 I’m currently working on New Whatsapp Features
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on my flutter project
