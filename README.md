@@ -10,7 +10,7 @@
   <tbody>
     <tr valign="top">
       <td width="50%" align="center">
-  # 𝗜'𝗺 Sahil Saxena <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+  <h1> 𝗜'𝗺 Sahil Saxena <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
   
 🚀 I am a **Student of CSE** who is **Cyber Security Enthusiast**<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> <br>
 ❤ I love doing **Bug Bounty** For Hobby 🚀 <br>
@@ -27,6 +27,7 @@
   </td>
       </tbody>
 </table>
+
 ## Technologies I Use
 
 <table>
