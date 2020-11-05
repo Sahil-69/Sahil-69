@@ -21,7 +21,7 @@
 ❤ In general; I am a **Technology Geek**  🇨🇾<br>
 </td>
 <td width="50%" align="center">
-  [![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=Sahil-69)]
+ [![Sahil Saxena's github stats](https://github-readme-stats.vercel.app/api?username=Sahil-69)](https://github.com/anuraghazra/github-readme-stats)
   </td>
       </tbody>
 </table>
