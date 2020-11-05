@@ -12,6 +12,9 @@
 🚀 I am a **Student of CSE** who is **Cyber Security Enthusiast**<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> <br>
 ❤ I love doing **Bug Bounty** For Hobby 🚀 <br>
 💻 I am an Addicted **Android Developer** 💎<br>
+-🔭 I’m currently working on **New Whatsapp Features**
+- 🌱 I’m currently learning **Flutter**
+- 👯 I’m looking to collaborate on my flutter project
 ❤ In general; I am a **Technology Geek**  🇨🇾
 
 ## Technologies I Use
@@ -24,20 +27,20 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/linux-tux.svg">
       </td>
       <td width="20%" align="center">
+        <span><strong>ANDROID</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/android.svg">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>FLUTTER</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/flutter.svg">
+      </td>
+      <td width="20%" align="center">
         <span><strong>HTML5</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
       <td width="20%" align="center">
         <span><strong>CSS3</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>
-      <td width="20%" align="center">
-        <span><strong>ANGULAR</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/angular-icon.svg">
-      </td>
-      <td width="20%" align="center">
-        <span><strong>PYTHON</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
       </tbody>
 </table>
@@ -81,9 +84,7 @@
 
 
 
-- 🔭 I’m currently working on New Whatsapp Features
-- 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on my flutter project
+
 <!--
 - 🤔 I’m looking for help with 
 - 💬 Ask me about ...
