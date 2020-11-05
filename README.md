@@ -9,9 +9,9 @@
 
   # 𝗜'𝗺 Sahil Saxena <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
   
-🚀 I am a **Student of CSE** who loves Backend & Frontend <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> <br>
-❤ I love to create **Coding Exercises** For Kids 🚀 <br>
-💻 I am an Addicted **Social Media Analyst** 💎<br>
+🚀 I am a **Student of CSE** who is **Cyber Security Enthusiast**<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> <br>
+❤ I love doing **Bug Bounty** For Hobby 🚀 <br>
+💻 I am an Addicted **Android Developer** 💎<br>
 ❤ In general; I am a **Technology Geek**  🇨🇾
 
 ## Technologies I Use
@@ -20,16 +20,16 @@
   <tbody>
     <tr valign="top">
       <td width="20%" align="center">
+        <span><strong>LINUX</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/linux-tux.svg">
+      </td>
+      <td width="20%" align="center">
         <span><strong>HTML5</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
       <td width="20%" align="center">
         <span><strong>CSS3</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>
-      <td width="20%" align="center">
-        <span><strong>JAVASCRIPT</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="20%" align="center">
         <span><strong>ANGULAR</strong></span><br><br><br>
