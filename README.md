@@ -6,7 +6,10 @@
 -->
 <p>
   <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="200px"></p>
-
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="50%" align="center">
   # 𝗜'𝗺 Sahil Saxena <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
   
 🚀 I am a **Student of CSE** who is **Cyber Security Enthusiast**<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> <br>
@@ -16,7 +19,12 @@
 🌱 I’m currently learning **Flutter**<br>
 👯 I’m looking to collaborate on my **flutter project** <br>
 ❤ In general; I am a **Technology Geek**  🇨🇾<br>
-
+</td>
+<td width="50%" align="center">
+  [![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=Sahil-69)]
+  </td>
+      </tbody>
+</table>
 ## Technologies I Use
 
 <table>
