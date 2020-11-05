@@ -8,9 +8,9 @@
   <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="200px"></p>
 
   # 𝗜'𝗺 Sahil Saxena <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-
-❤ I love to create **Coding Exercises** For Kids 🚀 <br>
+  
 🚀 I am a **Student of CSE** who loves Backend & Frontend <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> <br>
+❤ I love to create **Coding Exercises** For Kids 🚀 <br>
 💻 I am an Addicted **Social Media Analyst** 💎<br>
 ❤ In general; I am a **Technology Geek**  🇨🇾
 
