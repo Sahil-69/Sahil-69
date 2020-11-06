@@ -20,12 +20,12 @@
 👯 I’m looking to collaborate on my **flutter project** <br>
 ❤ In general; I am a **Technology Geek**  🇨🇾<br>
 </td>
-<td width="50%" align="center">
+<td width="50%">
 <a >
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sahil-69&show_icons=true&include_all_commits=true&theme=radical" alt="Sahil Saxena's github stats" />
 </a>
 <a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-69&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-69&layout=compact&theme=radical" />
   </a>
   </td>
   
