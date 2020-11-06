@@ -76,7 +76,7 @@
       </td>
       <td width="20%" align="center">
         <span><strong>Meet New People</strong></span><br><br><br>
-        <img height="200px" src="https://media.giphy.com/media/3o7abBphHJngINCHio/giphy.gif" width="300px">
+        <img height="200px" src="https://media.giphy.com/media/uNx0YANtETDM6piXju/giphy.gif" width="300px">
       </td>
       </tbody>
 </table>
@@ -85,13 +85,13 @@
 
 ## Wanna Chat? ☕
 
-  <a href="https://www.linkedin.com/in/antonia-symeonidou-88a719151/">
+  <a href="https://www.linkedin.com/in/sahil-saxena-1333b9174/">
     <img align="left" width="84px" src="https://cdn.svgporn.com/logos/linkedin.svg" />
   </a>
-  <a href="https://twitter.com/NanouuSymeon">
+  <a href="https://twitter.com/Sahil_delinitor">
     <img align="left" width="26px" src="https://cdn.svgporn.com/logos/twitter.svg" />
   </a>
-  <a href="mailto:nakibarbie1017@gmail.com">
+  <a href="mailto:sahilandroid596@gmail.com">
     <img align="left" width="26px" src="https://cdn.svgporn.com/logos/google-gmail.svg" />
   </a>
 
