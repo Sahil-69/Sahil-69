@@ -24,7 +24,10 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Sahil-69&show_icons=true&include_all_commits=true&theme=radical" alt="Sahil Saxena's github stats" />
 </a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+ 
   </td>
+  
       </tbody>
 </table>
 
