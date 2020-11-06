@@ -17,6 +17,7 @@
 💻 I am an Addicted **Android Developer** 💎<br>
 🔭 I’m currently working on **New Whatsapp Features**<br>
 🌱 I’m currently learning **Flutter**<br>
+❤ I usually code in C++,Java and C.
 👯 I’m looking to collaborate on my **flutter project** <br>
 ❤ In general; I am a **Technology Geek**  🇨🇾<br>
 </td>
