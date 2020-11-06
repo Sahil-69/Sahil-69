@@ -28,8 +28,7 @@
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-69&layout=compact&theme=radical" />
   </a>
-  </td>
-  
+  </td> 
       </tbody>
 </table>
 
