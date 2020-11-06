@@ -68,7 +68,7 @@
     <tr valign="top">
       <td width="20%" align="center">
         <span><strong>More Coding</strong></span><br><br><br>
-        <img height="200px" src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" width="300px">
+        <img height="200px" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300px">
       </td>
       <td width="20%" align="center">
         <span><strong>Read A Lot</strong></span><br><br><br>
