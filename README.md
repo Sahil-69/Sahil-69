@@ -14,10 +14,10 @@
   
 🚀 I am a **Student of CSE** who is **Cyber Security Enthusiast**<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> <br>
 ❤ I love doing **Bug Bounty** For Hobby 🚀 <br>
-💻 I am an Addicted **Android Developer** 💎<br>
-🔭 I’m currently working on **New Whatsapp Features**<br>
-🌱 I’m currently learning **Flutter**<br>
-❤ I usually code in C++,Java and C.<br>
+💻 I am Addicted to **Coffee** 💎<br>
+🔭 I’m currently working on **Eklavya**<br>
+🌱 Checkout my **Eklavya** Repository<br>
+❤ I usually code in C++.<br>
 👯 I’m looking to collaborate on my **flutter project** <br>
 ❤ In general; I am a **Technology Geek**  🇨🇾<br>
 </td>
